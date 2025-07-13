@@ -9,7 +9,7 @@ const playfairDisplay = Playfair_Display({
 const lato = Lato({
   variable: "--font-lato",
   subsets: ["latin"],
-  weight: ["900"],
+  weight: ["700"],
 });
 
 export const metadata = {
